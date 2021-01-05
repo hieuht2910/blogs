@@ -1,1 +1,1 @@
-# blogs
+# Ha Trung Hieu's blog
