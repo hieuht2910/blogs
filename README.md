@@ -4,6 +4,7 @@
   └── [Cassandra](nosql/cassandra) \
   SQL \
   Design Pattern \
+  Cloud \
   Distributed System \
   Bigdata Ecosystem
   
