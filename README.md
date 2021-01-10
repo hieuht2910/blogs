@@ -4,7 +4,7 @@ Menu \
   NoSQL \
   └── Cassandra \
   SQL \
-  Design Pattern \ 
+  Design Pattern \
   Distributed System \
-  Bigdata Ecosystem \
+  Bigdata Ecosystem
   
