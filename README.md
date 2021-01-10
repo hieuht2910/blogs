@@ -1,6 +1,5 @@
 # Ha Trung Hieu's blog
 
-Menu \
   NoSQL \
   └── Cassandra \
   SQL \
