@@ -1,6 +1,6 @@
 # Ha Trung Hieu's blog
 
-  NoSQL \
+  [NoSQL](nosql/) \
   └── [Cassandra](nosql/cassandra) \
   SQL \
   Design Pattern \
