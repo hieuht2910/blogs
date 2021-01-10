@@ -1,7 +1,7 @@
 # Ha Trung Hieu's blog
 
   NoSQL \
-  └── Cassandra \
+  └── [Cassandra](nosql/cassandra) \
   SQL \
   Design Pattern \
   Distributed System \
