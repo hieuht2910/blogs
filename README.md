@@ -1,4 +1,4 @@
-# Ha Trung Hieu's blog
+# Ha Trung Hieu's Blog
 
   [NoSQL](nosql/) \
   └── [Cassandra](nosql/cassandra) \
