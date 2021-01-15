@@ -1,1 +1,0 @@
-Here is Design Pattern
