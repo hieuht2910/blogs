@@ -3,7 +3,7 @@
   [NoSQL](nosql/) \
   └── [Cassandra](nosql/cassandra) \
   SQL \
-  Design Pattern \
+  [Design Pattern](design-pattern) \
   Cloud \
   Distributed System \
   Bigdata Ecosystem \
