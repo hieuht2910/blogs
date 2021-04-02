@@ -6,7 +6,7 @@
   [Design Pattern](design-pattern) \
   └── Kubernetes \
   Message Queues \
-  └── RabbitMQ \ 
+  └── RabbitMQ \
   Cloud \
   Distributed System \
   Bigdata Ecosystem \
